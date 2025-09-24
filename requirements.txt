@@ -1,0 +1,7 @@
+requests
+feedparser
+tqdm
+python-dateutil
+lxml
+python-dotenv
+pymysql
